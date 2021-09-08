@@ -3,7 +3,7 @@
 #### Question/need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
 
-- WomenTechWomenYes holds an annual gala at the beginning of the summer each year. The organization has requested that the team utilizes the MTA subway data to help advise on the placement of their street teams for maximizing contact with commuters. The street steam will collect email addresses and those who sign up are sent fee tickets to the gala. The purpose of this outreach is to fill the gala event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and outreach
+-WomenTechWomenYes holds an annual gala at the beginning of the summer each year. The organization has requested that the team utilizes the MTA subway data to help advise on the placement of their street teams for maximizing contact with commuters. The street steam will collect email addresses and those who sign up are sent fee tickets to the gala. The purpose of this outreach is to fill the gala event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and outreach
 
 * Who benefits from exploring this question or building this model/system?
 
