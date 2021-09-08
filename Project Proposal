@@ -1,0 +1,20 @@
+Question/need:
+•	What is the framing question of your analysis, or the purpose of the model/system you plan to build?
+o	WomenTechWomenYes holds an annual gala at the beginning of the summer each year. The organization has requested that the team utilizes the MTA subway data to help advise on the placement of their street teams for maximizing contact with commuters. The street steam will collect email addresses and those who sign up are sent fee tickets to the gala. The purpose of this outreach is to fill the gala event space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and outreach.
+•	Who benefits from exploring this question or building this model/system?
+o	Women who are interested in technology related careers would benefit most from the successful execution of this system. Maximizing the capacity of the event space with people committed to this mission will generate networking opportunities and new information that will hopefully jumpstart careers for women interested in this space. 
+Data Description:
+•	What dataset(s) do you plan to use, and how will you obtain the data?
+o	I plan to use the MTA turnstile data from April, May, and June of 2021, the three months leading up to the event. 
+•	What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
+o	“the station could be the unit of analysis (not worrying as much about time/turn styles), could be train line 
+•	If modeling, what will you predict as your target?
+Tools:
+•	How do you intend to meet the tools requirement of the project?
+o	Ingest raw data into the DB browser for SQLite and queried from that database into Python via SQLAlchemy 
+o	Clean the data using Python (removing nulls, rename columns)
+o	Will be using MatPlotLib for the following:
+	Create a histogram showing total traffic (entries/exits) for the top five stations
+	Create histogram for total traffic for each day of the week
+	Create line graph showing days of weeks, total traffic, and top 5 stations to see if the top five stations also happen to have the highest traffic on the 5 busiest days 
+•	Are you planning in advance to need or use additional tools beyond those required?
