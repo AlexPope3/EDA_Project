@@ -1,1 +1,1 @@
-![Top traffic](https://user-images.githubusercontent.com/86431477/133297076-5ab99e4f-b214-4a05-ac91-8d00a7688cbb.png
+![Top traffic](https://user-images.githubusercontent.com/86431477/133297537-f2ad6014-2a09-4e30-a0b9-7b60fcf638db.png)
