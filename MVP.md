@@ -1,4 +1,4 @@
-The goal of this project is to help the WTWY optimize the placement of their street team to make the most connections.
+The goal of this project is to help the WTWY optimize the placement of their street team in the MTA Subway system to make the most connections.
 
 ![Top traffic](https://user-images.githubusercontent.com/86431477/133297537-f2ad6014-2a09-4e30-a0b9-7b60fcf638db.png)
 
