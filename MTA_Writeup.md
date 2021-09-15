@@ -16,6 +16,8 @@ An exploratory data anaylsis was performed to gain insight into traffic trends. 
 
 Tools:
 
+-Pandas and SQLAlchemy for data manipulation
+-MatPlotLib for data visualization and presentation 
 
 
 Communication:
