@@ -8,14 +8,14 @@ As a massive transportation hub running throughout city, the MTA Subway system w
 
 Data:
 
-I used cumulative turnstile entry and exit data from May, April, and June of 2021. Each of the 377379 records of data from 379 unique subway stations represent entry and exits counts for each turnstile of the MTA subway system taken at four hour intervals across the span of three months. 
+I used cumulative turnstile entry and exit data from May, April, and June of 2021. Each of the 377379 records of data from 379 unique subway stations represent entry and exits counts for each turnstile of the MTA subway system taken at four hour time intervals. 
 
 Algorithms:
 
-
-An exploratory data anaylsis was performed to gain insight into traffic trends. Firstly, only records within two standard deviations of the entry and exit means were included in the analysis. This was done as opposed to removing outliers because it was too difficult to differientiate those outliers from erroneous records. Data was sorted according to unique turnstiles so that duplicate entries could be removed. To enable deeper investingation, filters were added to display the weekday, datetime, and summation of entries and exits (traffic) for each turnstile.  
-
+An exploratory data anaylsis was performed to gain insight into traffic trends. Firstly, only records within two standard deviations of the entry and exit means were included in the analysis. This was done as opposed to removing outliers because it was too difficult to differientiate those outliers from erroneous records. Data was sorted according to unique turnstiles so that duplicate entries could be removed. To enable deeper investingation, filters were added to display the weekday, datetime, and summation of entries and exits (traffic) for each turnstile. The summation was used to determine the busiest subway stations and the data was filtered further to find the heaviest tracker for each weekday and time of day; this played a key role in my recommendation. 
 
 Tools:
+
+
 
 Communication:
